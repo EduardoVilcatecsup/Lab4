@@ -1,0 +1,47 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.subtitle{
+    font-weight: bold;
+}
+.programming-languages i{
+    font-size: 7em;
+}
+.card{
+border-width: thin thick medium ;
+}
+
+.card{
+    border-top: 1px solid rgb(5, 2, 2);
+    border-right: 1px solid rgb(0, 0, 0);
+    border-bottom: 1px solid rgb(0, 0, 0);
+    border-left: 1px solid rgb(0, 0, 0);
+    background-color: #15443f;
+    border-width: thin thick medium ;
+}
+
+
+/*
+.main-wrapper{
+
+    background-color: #24A19C;
+}
+
+/*
+
+.card{
+    border-top: 1px solid rgb(5, 2, 2);
+    border-right: 1px solid rgb(0, 0, 0);
+    border-bottom: 1px solid rgb(0, 0, 0);
+    border-left: 1px solid rgb(0, 0, 0);
+    background-color: #6ebfb5;
+    border-width: thin thick medium ;
+}
+
+
+.list-group{
+    border-width: thin thick medium ;
+}
+
+/*
